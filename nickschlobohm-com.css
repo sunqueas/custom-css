@@ -1,0 +1,101 @@
+* {
+    font-family: 'Helvetica Neue', Sans-Serif;	
+}
+
+div.main {
+	background-color: #141414;
+}
+
+.copyright {
+	letter-spacing: 0.4px;
+	color: #808080;
+}
+
+.custom-logo {
+	width: 160px;
+}
+
+.hs-title-size-4.mb-30 {
+	font-size: 60px;
+}
+
+.hs-title-size-1.mb-40 {
+	font-size: 20px;
+}
+
+#menu-item-53 {
+  font-style: italic;
+}
+
+.menu-item.menu-item-type-post_type .menu-item-type-custom {
+	font-size: 16px;
+	letter-spacing: 0.75px;
+}
+
+.module-title {
+	padding-top: 25px;
+	font-size: 55px;
+}
+
+section.page-module-content.module {
+	background-color: #141414;
+	color: white;
+}
+
+body.single-post>div.main>section.page-module-content.module>div.container>div.row>div.shop-isle-page-content {
+	padding-top: 180px;
+}
+
+body.single-post>div.main>section.page-module-content.module>div.container>div.row>div.sidebar {
+	padding-top: 150px;
+}
+
+div#shop-isle-blog-container {
+	padding-top: 20px;
+}
+
+div.post-header>h2.post-title, div.post-header>h2.post-title>a {
+	color: white !important;
+	font-size: 30px;
+}
+
+div.post-header>h2.post-title>a:hover {
+	color: #aaa !important;
+}
+
+div.post-header>div.post-meta {
+	font-size: 14px;
+}
+
+div.post-entry.entry-content {
+	color: white;
+}
+
+div.post-more>a, ul.wp-block-latest-posts__list.wp-block-latest-posts>li>a {
+	color: #aaa;
+}
+
+div.post-more>a:hover, ul.wp-block-latest-posts__list.wp-block-latest-posts>li>a:hover {
+	color: white;
+}
+
+div.sidebar>aside>div.widget>div.wp-block-group>div.wp-block-group__inner-container>h2:first-letter {
+  text-transform: uppercase;
+}
+
+div.sidebar>aside>div.widget>div.wp-block-group>div.wp-block-group__inner-container>h2 {
+	color: white;
+	text-transform: lowercase;
+}
+
+.section-scroll.btn.btn-border-w.btn-round {
+	font-size: 13px;
+	font-weight: 500;
+	letter-spacing: 2.5px;
+}
+
+#slb_viewer_wrap .slb_theme_slb_baseline * {
+	font-size: 18px;
+	line-height: 0em !important;
+	padding-top: 5px !important;
+}
