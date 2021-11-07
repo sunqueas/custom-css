@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
 * {
-    font-family: 'Helvetica Neue', Sans-Serif;	
+    font-family: 'Helvetica Neue', 'Inter', Sans-Serif;
 }
 
 div.main {
